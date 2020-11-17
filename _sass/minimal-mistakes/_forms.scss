@@ -20,7 +20,7 @@ form {
     *margin-left: -7px;
     padding: 0;
     color: $text-color;
-    border: 0;
+    border: none !important;
     white-space: normal;
   }
 
@@ -82,7 +82,7 @@ select {
   margin-bottom: 0.5em;
   color: $text-color;
   background-color: $background-color;
-  border: $border-color;
+  border: none !important;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 }
@@ -106,7 +106,7 @@ input[type="radio"] {
   line-height: normal;
   cursor: pointer;
   border-radius: 0;
-  border: 0 \9;
+  border: none !important;
   box-shadow: none;
 }
 
