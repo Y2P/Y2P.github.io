@@ -12,9 +12,9 @@ title_separator          : "-"
 name                     : &name "Yusuf Yigit PILAVCI"
 description              : &description "PhD Student at GIPSA Lab"
 url                      : https://y2p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "y2p/y2p.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bio-photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -77,14 +77,14 @@ analytics:
 # Site Author
 author:
   name             : "Yusuf Yigit PILAVCI"
-  avatar           : 
+  avatar           : "bio-photo.png"
   bio              :
   location         : "Grenoble/FRANCE"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "yusuf-yigit.pilavci@gipsa-lab.fr"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
